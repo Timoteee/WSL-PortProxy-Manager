@@ -30,6 +30,11 @@ By default, WSL assigns a dynamic IP address on every restart, meaning any stati
 
 ---
 
+<img width="996" height="827" alt="NVIDIA_Overlay_rnyjQ2swTw" src="https://github.com/user-attachments/assets/5a0f8a54-dfde-43cd-8139-236a920b28ab" />
+
+<img width="991" height="815" alt="image" src="https://github.com/user-attachments/assets/083d8812-c278-4dff-a08b-b1765fad27ae" />
+
+
 ## 🛠 Installation
 
 1. Install **Python 3.x** on your Windows machine.
