@@ -1,0 +1,2 @@
+# WSL PortProxy Manager - pure stdlib, no external dependencies
+# Tkinter comes bundled with Python on Windows.
